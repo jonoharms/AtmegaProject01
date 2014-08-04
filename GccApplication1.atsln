@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Atmel Studio Solution File, Format Version 11.00
-Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GccApplication1", "GccApplication1\GccApplication1.cproj", "{17EA413A-DF49-45FB-89AA-9BBE922DD39D}"
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Blink", "GccApplication1\Blink.cproj", "{17EA413A-DF49-45FB-89AA-9BBE922DD39D}"
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GccApplication2", "GccApplication2\GccApplication2.cproj", "{4AE4C34D-8EF8-4B48-8EDA-32C780EFC060}"
 EndProject
