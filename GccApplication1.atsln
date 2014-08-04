@@ -5,6 +5,8 @@ Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Blink", "GccApplication1\Bl
 EndProject
 Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GccApplication2", "GccApplication2\GccApplication2.cproj", "{4AE4C34D-8EF8-4B48-8EDA-32C780EFC060}"
 EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GccApplication3", "GccApplication3\GccApplication3.cproj", "{DD6502CA-A5B5-4352-BA1E-461EAC62E12D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|AVR = Debug|AVR
@@ -19,6 +21,10 @@ Global
 		{4AE4C34D-8EF8-4B48-8EDA-32C780EFC060}.Debug|AVR.Build.0 = Debug|AVR
 		{4AE4C34D-8EF8-4B48-8EDA-32C780EFC060}.Release|AVR.ActiveCfg = Release|AVR
 		{4AE4C34D-8EF8-4B48-8EDA-32C780EFC060}.Release|AVR.Build.0 = Release|AVR
+		{DD6502CA-A5B5-4352-BA1E-461EAC62E12D}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DD6502CA-A5B5-4352-BA1E-461EAC62E12D}.Debug|AVR.Build.0 = Debug|AVR
+		{DD6502CA-A5B5-4352-BA1E-461EAC62E12D}.Release|AVR.ActiveCfg = Release|AVR
+		{DD6502CA-A5B5-4352-BA1E-461EAC62E12D}.Release|AVR.Build.0 = Release|AVR
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
