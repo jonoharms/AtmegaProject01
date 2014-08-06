@@ -41,15 +41,16 @@
     <com_atmel_avrdbg_tool_avrdragon>
       <ToolOptions>
         <InterfaceProperties>
-          <JtagDbgClock>1000000</JtagDbgClock>
+          <JtagDbgClock>200000</JtagDbgClock>
+          <IspClock>1000000</IspClock>
         </InterfaceProperties>
-        <InterfaceName>JTAG</InterfaceName>
+        <InterfaceName>ISP</InterfaceName>
       </ToolOptions>
       <ToolType>com.atmel.avrdbg.tool.avrdragon</ToolType>
       <ToolNumber>00A200045017</ToolNumber>
       <ToolName>AVR Dragon</ToolName>
     </com_atmel_avrdbg_tool_avrdragon>
-    <avrtoolinterface>JTAG</avrtoolinterface>
+    <avrtoolinterface>ISP</avrtoolinterface>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <ToolchainSettings>

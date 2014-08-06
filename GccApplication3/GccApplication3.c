@@ -28,7 +28,7 @@ void PWM(uchar pwmduty) {
 	TCNT2=0;  
 	DDRD |= _BV(PD7);  
 	OCR2=pwmduty;  
-	DelayMs(100); 
+	DelayMs(100);  
 } 
 	
 int main (void) {  

@@ -29,14 +29,14 @@ int main( void ) {
 		   en_led5;   
 		   en_led6;  
 		 //  _delay_ms(1000);   
-		   _delay_ms(1000);
+		   _delay_ms(100);
 		   
 
 			disen_led3;   
 			disen_led4;   
 			disen_led5;   
 			disen_led6;  
-			_delay_ms(1000);   
+			_delay_ms(100);   
 		//	_delay_ms(1000);  
 	} 
 }
